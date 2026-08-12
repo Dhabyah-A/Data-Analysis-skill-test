@@ -3,7 +3,9 @@
 An interactive dashboard designed to analyze student performance based on weekly study hours, parental support levels, and demographic data.
 
 # Dashboard Preview
-* student perform.PNG
+![Dashboard Image](student%20perform.PNG)
+
+
 # source
 * https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
 
