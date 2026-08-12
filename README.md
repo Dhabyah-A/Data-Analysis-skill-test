@@ -3,7 +3,7 @@
 An interactive dashboard designed to analyze student performance based on weekly study hours, parental support levels, and demographic data.
 
 # Dashboard Preview
-![Dashboard Image](Student Performance.PNG)
+![Dashboard Image](Student%20Performance.PNG)
 
 
 
