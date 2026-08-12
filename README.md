@@ -1,2 +1,2 @@
 # Data-Analysis-skill-test
-This repository is used for training purposes only and to develop my skills in data analysis and visualization.
+This repository is used for testing my skills in data analysis and visualization.
